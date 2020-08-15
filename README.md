@@ -1,1 +1,1 @@
-# java-point-of-sale
+# Java Point of Sale (POS)
