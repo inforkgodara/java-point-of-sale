@@ -50,7 +50,7 @@ public class Login extends javax.swing.JFrame {
         jPanel3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
         jLabel2.setBackground(new java.awt.Color(255, 153, 51));
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/output-onlinepngtools (2).png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/images (1).png"))); // NOI18N
         jLabel2.setText("jLabel2");
         jLabel2.setBorder(new javax.swing.border.MatteBorder(null));
 
@@ -129,7 +129,7 @@ public class Login extends javax.swing.JFrame {
         jPanel3Layout.setHorizontalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
-                .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 240, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 268, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jDesktopPane1))
         );

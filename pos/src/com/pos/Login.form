@@ -54,7 +54,7 @@
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
-                  <Component id="jLabel2" min="-2" pref="240" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="268" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
                   <Component id="jDesktopPane1" max="32767" attributes="0"/>
               </Group>
@@ -79,7 +79,7 @@
               <Color blue="33" green="99" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/img/output-onlinepngtools (2).png"/>
+              <Image iconType="3" name="/img/images (1).png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel2"/>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
