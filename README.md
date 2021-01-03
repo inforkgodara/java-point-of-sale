@@ -1,5 +1,6 @@
 # Java Point Of Sale (POS)
-You will get a description once it will be completed.
+
+### Note: A better version of this repository is in another repository where you will get fully functional pos except the finance module. https://github.com/inforkgodara/store-pos
 
 ## Screenshots
 
